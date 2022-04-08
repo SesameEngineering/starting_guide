@@ -1,1 +1,1 @@
-# starting_guide
+# starting_guides for OCP platforms
